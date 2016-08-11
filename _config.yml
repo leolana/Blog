@@ -68,4 +68,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  message: [message]
+  repo: 
+    github: <repository url>,[branch]
+    gitcafe: <repository url>,[branch]
