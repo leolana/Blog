@@ -71,5 +71,4 @@ deploy:
   type: git
   message: [message]
   repo: 
-    github: <repository url>,[branch]
-    gitcafe: <repository url>,[branch]
+    github: https://github.com/leolana/Blog,gh-pages
